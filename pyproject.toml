@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "lecture-notes-portable"
+version = "1.0.0"
+description = "Local classroom RAW transcription, cumulative summary, media import, and saved records"
+requires-python = ">=3.11"
+dependencies = ["python-dotenv==1.2.2", "requests==2.34.2", "sounddevice==0.5.6", "openai==3.24.0"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

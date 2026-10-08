@@ -1,0 +1,27 @@
+[
+  {
+    "course_id": "microcomputer",
+    "display_name": "微机原理",
+    "reference_path": "references/微机原理.json"
+  },
+  {
+    "course_id": "optimization",
+    "display_name": "最优化导论",
+    "reference_path": "references/最优化导论.json"
+  },
+  {
+    "course_id": "pattern_recognition",
+    "display_name": "模式识别与机器学习",
+    "reference_path": "references/模式识别与机器学习.json"
+  },
+  {
+    "course_id": "modern_control",
+    "display_name": "现代控制理论",
+    "reference_path": "references/现代控制理论.json"
+  },
+  {
+    "course_id": "power_electronics",
+    "display_name": "电力电子",
+    "reference_path": "references/电力电子.json"
+  }
+]

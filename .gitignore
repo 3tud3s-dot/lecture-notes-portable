@@ -1,0 +1,14 @@
+.env
+.venv/
+__pycache__/
+*.py[cod]
+frontend/node_modules/
+frontend/dist/
+frontend/test-results/
+frontend/playwright-report/
+recordings/
+outputs/
+data/classroom_records/
+.heavy/
+.DS_Store
+Thumbs.db
